@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">백엔드 개발자 '이민지'입니다.</h1>
 
 <p align="center">
-"꾸준함은 평범함을 탁월함으로 바꾼다."<br/>
-개발에서 가장 중요한 덕목은 <b>꾸준함</b>이라고 생각합니다. 기술은 단기간에 습득하기 어렵기 때문에,<br/>
-오랜 시간의 반복과 실험을 통해 실력을 쌓아왔고, 빠른 완성보다는 끈기 있게 매일 조금씩 성장하는 개발자가 되고자 노력해왔습니다.
+AI 서비스와 백엔드 시스템을 함께 만드는 개발자입니다.</br>
+Java/Spring Boot와 Python/FastAPI로 안정적인 백엔드 API를 설계하고,</br>
+LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 백엔드 시스템을 설계하고 구현하는 데 관심이 있습니다.
 </p>
 
 <p align="center"> 
@@ -38,9 +38,12 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- **가독성 있는 코딩** — 코드를 읽기 쉽고 유지보수가 용이하도록 모듈화하고, 함수나 클래스를 재사용 가능하게 만듭니다. 다른 사람이 이해하기 쉽도록 이름과 주석도 꼼꼼히 작성합니다.
-- **도전적인 성격** — 세상은 빠르게 새로운 기술들이 나오지만, 두려워하거나 피하지 않고 오히려 궁금해하고 직접 사용해보고자 하는 사람입니다.
-- **회사에서의 책임감** — 책임감이란 나로 인해 다른 사람이 피해를 입지 않도록 하는 것이라고 생각합니다. 어떤 일이든 맡은 이상 끝까지 완수하는 것이 제 원칙입니다.
+- Java/Spring Boot, Python/FastAPI 기반 백엔드 API 설계 및 구현
+- Kafka·WebSocket을 활용한 실시간 데이터 연동 시스템 구축
+- LangChain·RAG·GraphRAG 기반 문서 검색 및 GPT 챗봇 구현
+- Neo4j 기반 그래프 데이터 모델링 및 AI Agent 설계
+- PostgreSQL, MySQL, Oracle, Redis, Neo4j를 활용한 데이터 관리
+- Docker 기반 서비스 배포 및 실행 환경 구성
 
 
 ---
@@ -172,7 +175,5 @@ Here are some ideas to get you started:
 </table>
 <hr />
 
-
----
 
 <!-- 그 외 SmartCare 소변팩 모니터링, DR 진료과 추천 앱, SafeCamp, Mealance, DSC 지역리빙랩, AI 자동 여행 플래너, 부비동염 진단 보조 시스템 등 다수 프로젝트 진행 -->
