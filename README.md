@@ -102,6 +102,10 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 ## Featured Projects
 
 ### AI기반 제조 생산 일정 자동화 플랫폼
+<a href="[tel:010-3721-8513](https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link)">
+📄 AI기반 제조 생산 일정 자동화 플랫폼 
+</a> 
+
 
 `2026.06 ~ 2026.07 (30일) · 3인 팀 프로젝트`
 
@@ -115,8 +119,6 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 - GPT 문서 수정 자동화, 안전교육 현황 개발
 
 `Next.js · FastAPI · PostgreSQL · GPT-4o-mini · Docker · RAG`
-
-📄 https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link
 
 ---
 
