@@ -125,7 +125,7 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 </table>
 <hr />
 
-<h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
+<h3>INVEST YATRA - 실시간 주식 데이터 정보 제공 서비스</h3>
 <table>
 <thead>
 <tr><th>항목</th><th>내용</th></tr>
@@ -152,23 +152,35 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 </table>
 <hr />
 
----
+<h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
+<table>
+<thead>
+<tr><th>항목</th><th>내용</th></tr>
+</thead>
+<tbody>
+<tr><td>프로젝트명</td>
+<td><a href="https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td></tr>
+</tr>
+<tr><td>기간 / 인원</td>
+<td>2023.09 ~ 2023.12 · 4인 팀 프로젝트</td></tr>
+<tr><td>개요</td>
+<td>
+  ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.</br>
+  AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,</br>
+  대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다. </br>
+  (Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td></tr>
+<tr>
+  <td>주요 기술</td>
+  <td>Python · Django · ChatGPT 3.5 API · HTML/CSS</td></tr>
+<tr><td>주요 기능</td>
+<td>
+  - 프로젝트 기획 및 전체 구조 설계
+  - ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현
+  - Django를 이용한 웹 인터페이스 구축 및 URL 매칭</td></tr>
+</tbody>
+</table>
+<hr />
 
-### AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트
-
-`2023.09 ~ 2023.12 · 4인 팀 프로젝트`
-
-ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다. AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여, 대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다. (Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)
-
-**Core Features**
-
-- 프로젝트 기획 및 전체 구조 설계
-- ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현
-- Django를 이용한 웹 인터페이스 구축 및 URL 매칭
-
-`Python · Django · ChatGPT 3.5 API · HTML/CSS`
-
-📄 https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link
 
 ---
 
