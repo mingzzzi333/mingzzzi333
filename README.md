@@ -48,17 +48,44 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 ---
 
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,kafka,py,fastapi,postgres,redis,django,html,css,js,nodejs,nextjs,docker,github,notion&perline=9" />
-</p>
-**Backend & Database** &nbsp;Java · Spring / Spring Boot · MyBatis · JDBC · Oracle · MySQL · Kafka · Python · FastAPI · PostgreSQL · Redis
- 
-**AI** &nbsp;OpenAI · LangChain · LLM · RAG · GraphRAG · Neo4j · AI Agent · Prompt Engineering · Django · ChatGPT API
- 
-**Frontend & Tools** &nbsp;HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket · Next.js · Docker · GitHub · Swagger · Notion
-
----
+<h2>Tech Stack</h2>
+<p><strong>Backend &amp; Database</strong></p>
+<p><img alt="Java" src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Spring" src="https://img.shields.io/badge/Spring-24292F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-24292F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
+<img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-24292F?style=for-the-badge" />
+<img alt="JDBC" src="https://img.shields.io/badge/JDBC-24292F?style=for-the-badge" />
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-24292F?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-24292F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img alt="Kafka" src="https://img.shields.io/badge/Kafka-24292F?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-24292F?style=for-the-badge&amp;logo=redis&amp;logoColor=white" /></p>
+<p><strong>AI</strong></p>
+<p><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-24292F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-24292F?style=for-the-badge" />
+<img alt="LLM" src="https://img.shields.io/badge/LLM-24292F?style=for-the-badge" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-24292F?style=for-the-badge" />
+<img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-24292F?style=for-the-badge" />
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-24292F?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
+<img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-24292F?style=for-the-badge" />
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-24292F?style=for-the-badge" />
+<img alt="Django" src="https://img.shields.io/badge/Django-24292F?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
+<img alt="ChatGPT API" src="https://img.shields.io/badge/ChatGPT%20API-24292F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" /></p>
+<p><strong>Frontend &amp; Tools</strong></p>
+<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
+<img alt="AJAX" src="https://img.shields.io/badge/AJAX-24292F?style=for-the-badge" />
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-24292F?style=for-the-badge" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-24292F?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/Notion-24292F?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></p>
+<hr />
 
 <h2>Featured Projects</h2>
 <h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
