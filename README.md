@@ -107,8 +107,8 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 </thead>
 <tbody>
 <tr><td>프로젝트명</td>
-[![Notion](https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee)](https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link)
-[![Git](https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee)](https://github.com/mingzzzi333/manufacturing-scheduler.git)
+<td>[![Notion](https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee)](https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link)
+[![Git](https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee)](https://github.com/mingzzzi333/manufacturing-scheduler.git)</td></tr>
 </tr>
 <tr><td>기간 / 인원</td>
 <td>2026.06 ~ 2026.07 (30일) · 3인 팀 프로젝트</td></tr>
