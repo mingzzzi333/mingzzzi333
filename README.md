@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ---
 
 ## Tech Stack
-<!--
 **Backend & Database**
  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -88,15 +87,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
--->
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,kafka,py,fastapi,postgres,redis,django,html,css,js,nodejs,nextjs,docker,github,notion&perline=9" /> </p>
-
-Backend & Database  Java · Spring / Spring Boot · MyBatis · JDBC · Oracle · MySQL · Kafka · Python · FastAPI · PostgreSQL · Redis
-
-AI  OpenAI · LangChain · LLM · RAG · GraphRAG · Neo4j · AI Agent · Prompt Engineering · Django · ChatGPT API
-
-Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket · Next.js · Docker · GitHub · Swagger · Notion
 ---
 
 <h2>Featured Projects</h2>
