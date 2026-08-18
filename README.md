@@ -30,7 +30,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a> 
 <a href="tel:010-3721-8513"><img src="https://img.shields.io/badge/Contact-010--3721--8513-4CAF50?style=flat"/></a> 
 <a href="mailto:importhings2@gmail.com">
-<img src="https://img.shields.io/badge/Email-importhings2%40naver.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
