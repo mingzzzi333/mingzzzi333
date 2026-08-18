@@ -29,7 +29,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <a href="https://github.com/mingzzzi333">
 <img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a> 
 <a href="tel:010-3721-8513"><img src="https://img.shields.io/badge/Contact-010--3721--8513-4CAF50?style=flat"/></a> 
-<a href="mailto:importhings2@naver.com">
+<a href="mailto:importhings2@gmail.com">
 <img src="https://img.shields.io/badge/Email-importhings2%40naver.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -49,47 +49,14 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 ---
 
 ## Tech Stack
-**Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,kafka,py,fastapi,postgres,redis,django,html,css,js,nodejs,nextjs,docker,github,notion&perline=9" />
+</p>
+**Backend & Database** &nbsp;Java · Spring / Spring Boot · MyBatis · JDBC · Oracle · MySQL · Kafka · Python · FastAPI · PostgreSQL · Redis
  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+**AI** &nbsp;OpenAI · LangChain · LLM · RAG · GraphRAG · Neo4j · AI Agent · Prompt Engineering · Django · ChatGPT API
  
-**AI**
- 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![LLM](https://img.shields.io/badge/LLM-000000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-0057B7?style=flat)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-6A5ACD?style=flat)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-6A5ACD?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF8C00?style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-412991?style=flat&logo=openai&logoColor=white)
- 
-**Frontend & Tools**
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005A9C?style=flat)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+**Frontend & Tools** &nbsp;HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket · Next.js · Docker · GitHub · Swagger · Notion
 
 ---
 
