@@ -111,16 +111,15 @@ Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket �
 <tr><td>기간 / 인원</td>
 <td>2026.06 ~ 2026.07 (30일) · 3인 팀 프로젝트</td></tr>
 <tr><td>개요</td>
-<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면? AI가 생산 일정을 자동으로 생성하고 설비를 관리하며, GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td></tr>
+<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?</br> AI가 생산 일정을 자동으로 생성하고 설비를 관리하며, GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td></tr>
 <tr><td>주요 기술</td>
 <td>Next.js · FastAPI · PostgreSQL · GPT-4o-mini · Docker · RAG</td></tr>
-<tr><td>Core Features</td>
-<td>AI · 스케줄 자동 생성 및 설비 관리 </br> · GPT 챗봇 및 문서 업로드 기능 구현 </br> · 안전교육 CSV 업로드 및 RAG 챗봇 구현 </br> · GPT 문서 수정 자동화, 안전교육 현황 개발</td></tr>
+<tr><td>주요 기능</td>
+<td> · AI · 스케줄 자동 생성 및 설비 관리 </br> · GPT 챗봇 및 문서 업로드 기능 구현 </br> · 안전교육 CSV 업로드 및 RAG 챗봇 구현 </br> · GPT 문서 수정 자동화, 안전교육 현황 개발</td></tr>
 </tbody>
 </table>
 <hr />
 
----
 
 ### INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스
 
