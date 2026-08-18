@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 오랜 시간의 반복과 실험을 통해 실력을 쌓아왔고, 빠른 완성보다는 끈기 있게 매일 조금씩 성장하는 개발자가 되고자 노력해왔습니다.
 </p>
 
-<p align="center">
-  <a href="https://github.com/mingzzzi333"><img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a>
-  <a href="tel:010-3721-8513"><img src="https://img.shields.io/badge/Contact-010--3721--8513-4CAF50?style=flat"/></a>
-  <a href="mailto:importhings2@naver.com"><img src="https://img.shields.io/badge/Email-importhings2%40naver.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<p align="center"> 
+<a href="https://github.com/mingzzzi333">
+<img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a> 
+<a href="tel:010-3721-8513"><img src="https://img.shields.io/badge/Contact-010--3721--8513-4CAF50?style=flat"/></a> 
+<a href="mailto:importhings2@naver.com">
+<img src="https://img.shields.io/badge/Email-importhings2%40naver.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -87,14 +90,13 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,kafka,py,fastapi,postgres,redis,django,html,css,js,nodejs,nextjs,docker,github,notion&perline=9" />
-</p>
-**Backend & Database** &nbsp;Java · Spring / Spring Boot · MyBatis · JDBC · Oracle · MySQL · Kafka · Python · FastAPI · PostgreSQL · Redis
- 
-**AI** &nbsp;OpenAI · LangChain · LLM · RAG · GraphRAG · Neo4j · AI Agent · Prompt Engineering · Django · ChatGPT API
- 
-**Frontend & Tools** &nbsp;HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket · Next.js · Docker · GitHub · Swagger · Notion
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,kafka,py,fastapi,postgres,redis,django,html,css,js,nodejs,nextjs,docker,github,notion&perline=9" /> </p>
+
+Backend & Database  Java · Spring / Spring Boot · MyBatis · JDBC · Oracle · MySQL · Kafka · Python · FastAPI · PostgreSQL · Redis
+
+AI  OpenAI · LangChain · LLM · RAG · GraphRAG · Neo4j · AI Agent · Prompt Engineering · Django · ChatGPT API
+
+Frontend & Tools  HTML5 · CSS3 · JavaScript · Node.js · AJAX · WebSocket · Next.js · Docker · GitHub · Swagger · Notion
 ---
 
 ## Featured Projects
