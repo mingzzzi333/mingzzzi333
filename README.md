@@ -32,7 +32,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <a href="tel:https://app.notion.com/p/58cb897624f982c382ca01e7e42635f7?v=011b897624f98307ab15084d928ea9f6&source=copy_link">
   <img src="https://img.shields.io/badge/Portfolio-Notion-181717?style=flat&logo=notion"/></a>
 <a href="mailto:importhings2@gmail.com">
-<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-3E7F41?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-419DE6?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
