@@ -30,9 +30,9 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <a href="https://github.com/mingzzzi333">
 <img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a>
 <a href="tel:https://app.notion.com/p/58cb897624f982c382ca01e7e42635f7?v=011b897624f98307ab15084d928ea9f6&source=copy_link">
-  <img src="https://img.shields.io/badge/Contact-Notion-4CAF50?style=flat&logo=notion"/></a>
+  <img src="https://img.shields.io/badge/Contact-Notion-181717?style=flat&logo=notion"/></a>
 <a href="mailto:importhings2@gmail.com">
-<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-181717?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
