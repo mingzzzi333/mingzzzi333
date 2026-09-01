@@ -75,16 +75,16 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <img alt="Django" src="https://img.shields.io/badge/Django-24292F?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
 <img alt="ChatGPT API" src="https://img.shields.io/badge/ChatGPT API-24292F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" /></p>
 <p><strong>Frontend & Tools</strong></p>
-<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-C24444?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-4F72BD?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E6D446?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
-<img alt="AJAX" src="https://img.shields.io/badge/AJAX-24292F?style=for-the-badge" />
-<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-24292F?style=for-the-badge" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img alt="AJAX" src="https://img.shields.io/badge/AJAX-4F72BD?style=for-the-badge" />
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-88C23C?style=for-the-badge" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-8FB753?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-4F72BD?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-24292F?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" />
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-8FB753?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-24292F?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></p>
 <hr />
 
