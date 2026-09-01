@@ -30,9 +30,9 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <a href="https://github.com/mingzzzi333">
 <img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a>
 <a href="tel:https://app.notion.com/p/58cb897624f982c382ca01e7e42635f7?v=011b897624f98307ab15084d928ea9f6&source=copy_link">
-  <img src="https://img.shields.io/badge/Contact-Notion-181717?style=flat&logo=notion"/></a>
+  <img src="https://img.shields.io/badge/Portfolio-Notion-181717?style=flat&logo=notion"/></a>
 <a href="mailto:importhings2@gmail.com">
-<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-181717?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-3E7F41?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -51,18 +51,18 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h2>Tech Stack</h2>
 <p><strong>Backend & Database</strong></p>
-<p><img alt="Java" src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/Spring-24292F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-24292F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
+<p><img alt="Java" src="https://img.shields.io/badge/Java-4F72BD?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Spring" src="https://img.shields.io/badge/Spring-88C23C?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-88C23C?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
 <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-24292F?style=for-the-badge" />
-<img alt="JDBC" src="https://img.shields.io/badge/JDBC-24292F?style=for-the-badge" />
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-24292F?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-24292F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img alt="JDBC" src="https://img.shields.io/badge/JDBC-4F72BD?style=for-the-badge" />
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-C24444?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4F72BD?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
 <img alt="Kafka" src="https://img.shields.io/badge/Kafka-24292F?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/Redis-24292F?style=for-the-badge&amp;logo=redis&amp;logoColor=white" /></p>
+<img alt="Python" src="https://img.shields.io/badge/Python-4F72BD?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-408F84?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4F72BD?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-C24444?style=for-the-badge&amp;logo=redis&amp;logoColor=white" /></p>
 <p><strong>AI</strong></p>
 <p><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-24292F?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-24292F?style=for-the-badge" />
