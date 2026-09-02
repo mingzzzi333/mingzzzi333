@@ -88,21 +88,22 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-8FB753?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-24292F?style=for-the-badge&amp;logo=notion&amp;logoColor=white" /></p>
 <hr />
-
 <h2>Featured Projects</h2>
 
-<table>
+<h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
+
+<table width="100%">
+<colgroup>
+<col width="120">
+<col width="*">
+</colgroup>
 <thead>
 <tr>
-<th width="120">항목</th>
+<th>항목</th>
 <th>내용</th>
 </tr>
 </thead>
 <tbody>
-
-<tr>
-<td colspan="2"><strong>AI 기반 제조 생산 일정 자동화 플랫폼</strong></td>
-</tr>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -116,11 +117,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 <tr>
 <td>개요</td>
-<td>
-국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?<br />
-AI가 생산 일정을 자동으로 생성하고 설비를 관리하며,<br />
-GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.
-</td>
+<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?<br>AI가 생산 일정을 자동으로 생성하고 설비를 관리하며,<br>GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td>
 </tr>
 <tr>
 <td>주요기술</td>
@@ -128,19 +125,27 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 </tr>
 <tr>
 <td>주요기능</td>
-<td>
-- AI 스케줄 자동 생성 및 설비 관리<br />
-- GPT 챗봇 및 문서 업로드 기능 구현<br />
-- 안전교육 CSV 업로드 및 RAG 챗봇 구현<br />
-- GPT 문서 수정 자동화, 안전교육 현황 개발
-</td>
+<td>- AI 스케줄 자동 생성 및 설비 관리<br>- GPT 챗봇 및 문서 업로드 기능 구현<br>- 안전교육 CSV 업로드 및 RAG 챗봇 구현<br>- GPT 문서 수정 자동화, 안전교육 현황 개발</td>
 </tr>
+</tbody>
+</table>
 
+<hr>
 
+<h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
 
+<table width="100%">
+<colgroup>
+<col width="120">
+<col width="*">
+</colgroup>
+<thead>
 <tr>
-<td colspan="2"><strong>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</strong></td>
+<th>항목</th>
+<th>내용</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -154,10 +159,7 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 </tr>
 <tr>
 <td>개요</td>
-<td>
-실시간 주가 데이터를 기반으로 시장 트렌드에 맞춘 주제 중심의 주식 추천 플랫폼으로,<br />
-초보자도 쉽게 이해할 수 있는 형태로 정보를 제공합니다.
-</td>
+<td>실시간 주가 데이터를 기반으로 시장 트렌드에 맞춘 주제 중심의 주식 추천 플랫폼으로,<br>초보자도 쉽게 이해할 수 있는 형태로 정보를 제공합니다.</td>
 </tr>
 <tr>
 <td>주요기술</td>
@@ -165,21 +167,27 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 </tr>
 <tr>
 <td>주요기능</td>
-<td>
-- 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현<br />
-- Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br />
-- Chart.js 기반 실시간 주가 차트 시각화<br />
-- 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현
-</td>
+<td>- 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현<br>- Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br>- Chart.js 기반 실시간 주가 차트 시각화<br>- 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현</td>
 </tr>
+</tbody>
+</table>
 
-<tr>
-<td colspan="2"><hr /></td>
-</tr>
+<hr>
 
+<h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
+
+<table width="100%">
+<colgroup>
+<col width="120">
+<col width="*">
+</colgroup>
+<thead>
 <tr>
-<td colspan="2"><strong>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</strong></td>
+<th>항목</th>
+<th>내용</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -193,12 +201,7 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 </tr>
 <tr>
 <td>개요</td>
-<td>
-ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br />
-AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,<br />
-대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br />
-(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)
-</td>
+<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br>AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,<br>대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
 </tr>
 <tr>
 <td>주요기술</td>
@@ -206,16 +209,10 @@ AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 M
 </tr>
 <tr>
 <td>주요기능</td>
-<td>
-- 프로젝트 기획 및 전체 구조 설계<br />
-- ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현<br />
-- Django를 이용한 웹 인터페이스 구축 및 URL 매칭
-</td>
+<td>- 프로젝트 기획 및 전체 구조 설계<br>- ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현<br>- Django를 이용한 웹 인터페이스 구축 및 URL 매칭</td>
 </tr>
-
 </tbody>
 </table>
 
-<hr />
-
+<hr>
 <!-- 그 외 SmartCare 소변팩 모니터링, DR 진료과 추천 앱, SafeCamp, Mealance, DSC 지역리빙랩, AI 자동 여행 플래너, 부비동염 진단 보조 시스템 등 다수 프로젝트 진행 -->
