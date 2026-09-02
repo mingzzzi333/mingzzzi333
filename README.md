@@ -172,7 +172,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 <tr>
 <td>개요</td>
-<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br/>AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여, 대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br/>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
+<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br/>AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여, <br/>대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br/>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
 </tr>
 <tr>
 <td>주요기술</td>
