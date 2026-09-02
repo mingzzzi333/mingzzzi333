@@ -93,34 +93,22 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
 
-<table width="100%">
-  <colgroup>
-    <col width="100" />
-    <col />
-  </colgroup>
-
+<table>
   <thead>
     <tr>
-      <th>항목</th>
+      <th width="100">항목</th>
       <th>내용</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>프로젝트명</td>
       <td>
         <a href="https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link">
-          <img
-            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
-            alt="Notion"
-          />
+          <img src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee" alt="Notion" />
         </a>
         <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git">
-          <img
-            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
-            alt="Git"
-          />
+          <img src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee" alt="Git" />
         </a>
       </td>
     </tr>
@@ -160,34 +148,22 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
 
-<table width="100%">
-  <colgroup>
-    <col width="100" />
-    <col />
-  </colgroup>
-
+<table>
   <thead>
     <tr>
-      <th>항목</th>
+      <th width="100">항목</th>
       <th>내용</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>프로젝트명</td>
       <td>
         <a href="https://app.notion.com/p/INVEST-YATRA-38db897624f9807699bffe3f0854c297?source=copy_link">
-          <img
-            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
-            alt="Notion"
-          />
+          <img src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee" alt="Notion" />
         </a>
         <a href="https://github.com/mingzzzi333/FinalProject_2025">
-          <img
-            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
-            alt="Git"
-          />
+          <img src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee" alt="Git" />
         </a>
       </td>
     </tr>
@@ -226,34 +202,22 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
 
-<table width="100%">
-  <colgroup>
-    <col width="100" />
-    <col />
-  </colgroup>
-
+<table>
   <thead>
     <tr>
-      <th>항목</th>
+      <th width="100">항목</th>
       <th>내용</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>프로젝트명</td>
       <td>
         <a href="https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link">
-          <img
-            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
-            alt="Notion"
-          />
+          <img src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee" alt="Notion" />
         </a>
         <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git">
-          <img
-            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
-            alt="Git"
-          />
+          <img src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee" alt="Git" />
         </a>
       </td>
     </tr>
