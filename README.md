@@ -117,7 +117,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 <tr>
 <td>개요</td>
-<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?<br>AI가 생산 일정을 자동으로 생성하고 설비를 관리하며,<br>GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td>
+<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?AI가 생산 일정을 자동으로 생성하고 설비를 관리하며,<br>GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td>
 </tr>
 <tr>
 <td>주요기술</td>
@@ -167,7 +167,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 <tr>
 <td>주요기능</td>
-<td>- 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현<br>- Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br>- Chart.js 기반 실시간 주가 차트 시각화<br>- 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현</td>
+<td>- 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현- Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br>- Chart.js 기반 실시간 주가 차트 시각화<br>- 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현</td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +201,8 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 <tr>
 <td>개요</td>
-<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br>AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,<br>대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
+<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br>
+  AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,대화 속에서 지속적으로 학습하고 <br>성장할 수 있는 환경을 구축했습니다.<br>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
 </tr>
 <tr>
 <td>주요기술</td>
