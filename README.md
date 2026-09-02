@@ -29,7 +29,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <p align="center">
 <a href="https://github.com/mingzzzi333">
 <img src="https://img.shields.io/badge/GitHub-mingzzzi333-181717?style=flat&logo=github"/></a>
-<a href="https://app.notion.com/p/58cb897624f982c382ca01e7e42635f7?v=011b897624f98307ab15084d928ea9f6&source=copy_link">
+<a href="https://app.notion.com/p/Lee-MinJi-Backend-AI-Developer-c2bb897624f982389941014dcdeae1ce">
   <img src="https://img.shields.io/badge/Portfolio-Notion-181717?style=flat&logo=notion"/></a>
 <a href="mailto:importhings2@gmail.com">
 <img src="https://img.shields.io/badge/Email-importhings2%40gmail.com-419DE6?style=flat&logo=gmail&logoColor=white"/>
@@ -194,7 +194,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <td>프로젝트명</td>
 <td>
 <a href="https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link"><img src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee" alt="Notion" /></a>
-<a href="https://github.com/mingzzzi333/manufacturing-scheduler.git"><img src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee" alt="Git" /></a>
+<a href="https://github.com/mingzzzi333"><img src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee" alt="Git" /></a>
 </td>
 </tr>
 <tr>
