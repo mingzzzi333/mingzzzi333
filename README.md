@@ -136,9 +136,7 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 </td>
 </tr>
 
-<tr>
-<td colspan="2"><hr /></td>
-</tr>
+
 
 <tr>
 <td colspan="2"><strong>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</strong></td>
