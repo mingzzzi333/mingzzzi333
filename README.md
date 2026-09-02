@@ -132,7 +132,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <tbody>
 <tr>
 <td>프로젝트명</td>
-<td><a href="https://app.notion.com/p/INVEST-YATRA-38db897624f9807699bffe3f0854c297?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td>
+<td><a href="https://app.notion.com/p/INVEST-YATRA-38db897624f9807699bffe3f0854c297?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/FinalProject_2025"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td>
 </tr>
 <tr>
 <td>기간/인원</td>
