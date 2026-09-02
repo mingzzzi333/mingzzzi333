@@ -38,6 +38,40 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 ---
 
+<style>
+  .project-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .project-table th,
+  .project-table td {
+    border: 1px solid #d0d7de;
+    padding: 8px 12px;
+    vertical-align: middle;
+  }
+
+  .project-table th {
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .project-table td:first-child {
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .project-table td:last-child {
+    text-align: left;
+    word-break: break-word;
+  }
+
+  .project-table img {
+    vertical-align: middle;
+  }
+</style>
+
 ## About Me
 
 - Java/Spring Boot, Python/FastAPI 기반 백엔드 API 설계 및 구현
@@ -89,39 +123,73 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <hr />
 
 <h2>Featured Projects</h2>
+
 <h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
-<table>
-  <col style="width: 100px;">
-    <col style="width: calc(100% - 100px);">
-<thead>
-<tr>
-<th>항목</th>
-<th>내용</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>프로젝트명</td>
-<td><a href="https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td>
-</tr>
-<tr>
-<td>기간/인원</td>
-<td>2026.06 ~ 2026.07 (30일) · 3인 팀 프로젝트</td>
-</tr>
-<tr>
-<td>개요</td>
-<td>국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?<br/>AI가 생산 일정을 자동으로 생성하고 설비를 관리하며, <br/>GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.</td>
-</tr>
-<tr>
-<td>주요기술</td>
-<td>Next.js · FastAPI · PostgreSQL · GPT-4o-mini · Docker · RAG</td>
-</tr>
-<tr>
-<td>주요기능</td>
-<td>- AI 스케줄 자동 생성 및 설비 관리<br/>- GPT 챗봇 및 문서 업로드 기능 구현<br/>- 안전교육 CSV 업로드 및 RAG 챗봇 구현<br/>- GPT 문서 수정 자동화, 안전교육 현황 개발</td>
-</tr>
-</tbody>
+
+<table class="project-table">
+  <colgroup>
+    <col style="width: 100px;" />
+    <col />
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>프로젝트명</td>
+      <td>
+        <a href="https://app.notion.com/p/Linea-AI-391b897624f983059826815fd9606448?source=copy_link">
+          <img
+            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
+            alt="Notion"
+          />
+        </a>
+
+        <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git">
+          <img
+            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
+            alt="Git"
+          />
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>기간/인원</td>
+      <td>2026.06 ~ 2026.07 (30일) · 3인 팀 프로젝트</td>
+    </tr>
+
+    <tr>
+      <td>개요</td>
+      <td>
+        국내 GDP의 28%를 차지하는 제조업, 그 양산 일정을 GPT가 짜준다면?<br />
+        AI가 생산 일정을 자동으로 생성하고 설비를 관리하며,<br />
+        GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼입니다.
+      </td>
+    </tr>
+
+    <tr>
+      <td>주요기술</td>
+      <td>Next.js · FastAPI · PostgreSQL · GPT-4o-mini · Docker · RAG</td>
+    </tr>
+
+    <tr>
+      <td>주요기능</td>
+      <td>
+        - AI 스케줄 자동 생성 및 설비 관리<br />
+        - GPT 챗봇 및 문서 업로드 기능 구현<br />
+        - 안전교육 CSV 업로드 및 RAG 챗봇 구현<br />
+        - GPT 문서 수정 자동화, 안전교육 현황 개발
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 <hr />
 
 <h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
