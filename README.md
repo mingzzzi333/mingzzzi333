@@ -38,39 +38,6 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 ---
 
-<style>
-  .project-table {
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-  }
-
-  .project-table th,
-  .project-table td {
-    border: 1px solid #d0d7de;
-    padding: 8px 12px;
-    vertical-align: middle;
-  }
-
-  .project-table th {
-    text-align: center;
-    font-weight: 600;
-  }
-
-  .project-table td:first-child {
-    text-align: center;
-    white-space: nowrap;
-  }
-
-  .project-table td:last-child {
-    text-align: left;
-    word-break: break-word;
-  }
-
-  .project-table img {
-    vertical-align: middle;
-  }
-</style>
 
 ## About Me
 
@@ -126,9 +93,9 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
 
-<table class="project-table">
+<table width="100%">
   <colgroup>
-    <col style="width: 100px;" />
+    <col width="100" />
     <col />
   </colgroup>
 
@@ -149,7 +116,6 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
             alt="Notion"
           />
         </a>
-
         <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git">
           <img
             src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
@@ -193,73 +159,135 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <hr />
 
 <h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
-<table>
-  <col style="width: 100px;">
-    <col style="width: calc(100% - 100px);">
-<thead>
-<tr>
-<th>항목</th>
-<th>내용</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>프로젝트명</td>
-<td><a href="https://app.notion.com/p/INVEST-YATRA-38db897624f9807699bffe3f0854c297?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/FinalProject_2025"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td>
-</tr>
-<tr>
-<td>기간/인원</td>
-<td>2025.05 ~ 2025.06 (37일) · 3인 팀 프로젝트</td>
-</tr>
-<tr>
-<td>개요</td>
-<td>실시간 주가 데이터를 기반으로 시장 트렌드에 맞춘 주제 중심의 주식 추천 플랫폼으로, <br/>초보자도 쉽게 이해할 수 있는 형태로 정보를 제공합니다.</td>
-</tr>
-<tr>
-<td>주요기술</td>
-<td>Java · Spring Boot · JSP · MyBatis · Oracle · Kafka · WebSocket · Chart.js</td>
-</tr>
-<tr>
-<td>주요기능</td>
-<td>- 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현<br/>- Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br/>- Chart.js 기반 실시간 주가 차트 시각화<br/>- 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현</td>
-</tr>
-</tbody>
+
+<table width="100%">
+  <colgroup>
+    <col width="100" />
+    <col />
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>프로젝트명</td>
+      <td>
+        <a href="https://app.notion.com/p/INVEST-YATRA-38db897624f9807699bffe3f0854c297?source=copy_link">
+          <img
+            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
+            alt="Notion"
+          />
+        </a>
+        <a href="https://github.com/mingzzzi333/FinalProject_2025">
+          <img
+            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
+            alt="Git"
+          />
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>기간/인원</td>
+      <td>2025.05 ~ 2025.06 (37일) · 3인 팀 프로젝트</td>
+    </tr>
+
+    <tr>
+      <td>개요</td>
+      <td>
+        실시간 주가 데이터를 기반으로 시장 트렌드에 맞춘 주제 중심의 주식 추천 플랫폼으로,<br />
+        초보자도 쉽게 이해할 수 있는 형태로 정보를 제공합니다.
+      </td>
+    </tr>
+
+    <tr>
+      <td>주요기술</td>
+      <td>Java · Spring Boot · JSP · MyBatis · Oracle · Kafka · WebSocket · Chart.js</td>
+    </tr>
+
+    <tr>
+      <td>주요기능</td>
+      <td>
+        - 데이터 Table ERD 설계 및 회원·관리자 로그인/권한 분리 구현<br />
+        - Kafka와 WebSocket을 활용한 실시간 주식 데이터 연동<br />
+        - Chart.js 기반 실시간 주가 차트 시각화<br />
+        - 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 <hr />
+
 <h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
 
-<table>
-  <col style="width: 100px;">
-    <col style="width: calc(100% - 100px);">
-<thead>
-<tr>
-<th>항목</th>
-<th>내용</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>프로젝트명</td>
-<td><a href="https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&amp;logo=notion&amp;logoColor=181717&amp;labelColor=eeeeee" /></a> <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git"><img alt="Git" src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&amp;logo=git&amp;logoColor=181717&amp;labelColor=eeeeee" /></a></td>
-</tr>
-<tr>
-<td>기간/인원</td>
-<td>2023.09 ~ 2023.12 · 4인 팀 프로젝트</td>
-</tr>
-<tr>
-<td>개요</td>
-<td>ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br/>AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여, <br/>대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br/>(Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)</td>
-</tr>
-<tr>
-<td>주요기술</td>
-<td>Python · Django · ChatGPT 3.5 API · HTML/CSS</td>
-</tr>
-<tr>
-<td>주요기능</td>
-<td>- 프로젝트 기획 및 전체 구조 설계<br/>- ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현<br/>- Django를 이용한 웹 인터페이스 구축 및 URL 매칭</td>
-</tr>
-</tbody>
-</table>
-<hr />
+<table width="100%">
+  <colgroup>
+    <col width="100" />
+    <col />
+  </colgroup>
 
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>프로젝트명</td>
+      <td>
+        <a href="https://app.notion.com/p/AI-Agent-AI-38eb897624f9809fb0e7e653c91f3000?source=copy_link">
+          <img
+            src="https://img.shields.io/badge/NOTION-프로젝트_기획서-000000?style=flat&logo=notion&logoColor=181717&labelColor=eeeeee"
+            alt="Notion"
+          />
+        </a>
+        <a href="https://github.com/mingzzzi333/manufacturing-scheduler.git">
+          <img
+            src="https://img.shields.io/badge/GIT-바로가기-000000?style=flat&logo=git&logoColor=181717&labelColor=eeeeee"
+            alt="Git"
+          />
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>기간/인원</td>
+      <td>2023.09 ~ 2023.12 · 4인 팀 프로젝트</td>
+    </tr>
+
+    <tr>
+      <td>개요</td>
+      <td>
+        ChatGPT API와 Python을 활용해 인간과 AI가 함께 협업하는 AI 팀원 시뮬레이션 시스템을 개발했습니다.<br />
+        AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 Memory Stream 구조를 구현하여,<br />
+        대화 속에서 지속적으로 학습하고 성장할 수 있는 환경을 구축했습니다.<br />
+        (Generative Agents: Interactive Simulacra of Human Behavior 논문 기반)
+      </td>
+    </tr>
+
+    <tr>
+      <td>주요기술</td>
+      <td>Python · Django · ChatGPT 3.5 API · HTML/CSS</td>
+    </tr>
+
+    <tr>
+      <td>주요기능</td>
+      <td>
+        - 프로젝트 기획 및 전체 구조 설계<br />
+        - ChatGPT API 연동 및 Memory Stream(기억 저장·검색·반영) 로직 구현<br />
+        - Django를 이용한 웹 인터페이스 구축 및 URL 매칭
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
 <!-- 그 외 SmartCare 소변팩 모니터링, DR 진료과 추천 앱, SafeCamp, Mealance, DSC 지역리빙랩, AI 자동 여행 플래너, 부비동염 진단 보조 시스템 등 다수 프로젝트 진행 -->
