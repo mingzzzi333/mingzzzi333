@@ -91,9 +91,7 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h2>Featured Projects</h2>
 
-<h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
-
-<table width="700">
+<table>
 <thead>
 <tr>
 <th width="120">항목</th>
@@ -101,6 +99,10 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td colspan="2"><strong>AI 기반 제조 생산 일정 자동화 플랫폼</strong></td>
+</tr>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -133,21 +135,14 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 - GPT 문서 수정 자동화, 안전교육 현황 개발
 </td>
 </tr>
-</tbody>
-</table>
 
-<hr />
-
-<h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
-
-<table width="700">
-<thead>
 <tr>
-<th width="120">항목</th>
-<th>내용</th>
+<td colspan="2"><hr /></td>
 </tr>
-</thead>
-<tbody>
+
+<tr>
+<td colspan="2"><strong>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</strong></td>
+</tr>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -179,21 +174,14 @@ GPT 챗봇과 문서 업로드를 통해 현장 업무를 지원하는 플랫폼
 - 커뮤니티 게시판(게시글 CRUD), 회원 ↔ 관리자 1:1 문의 서비스 구현
 </td>
 </tr>
-</tbody>
-</table>
 
-<hr />
-
-<h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
-
-<table width="700">
-<thead>
 <tr>
-<th width="120">항목</th>
-<th>내용</th>
+<td colspan="2"><hr /></td>
 </tr>
-</thead>
-<tbody>
+
+<tr>
+<td colspan="2"><strong>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</strong></td>
+</tr>
 <tr>
 <td>프로젝트명</td>
 <td>
@@ -226,8 +214,10 @@ AI가 기억을 축적하고 스스로 사고·계획·행동할 수 있도록 M
 - Django를 이용한 웹 인터페이스 구축 및 URL 매칭
 </td>
 </tr>
+
 </tbody>
 </table>
 
 <hr />
+
 <!-- 그 외 SmartCare 소변팩 모니터링, DR 진료과 추천 앱, SafeCamp, Mealance, DSC 지역리빙랩, AI 자동 여행 플래너, 부비동염 진단 보조 시스템 등 다수 프로젝트 진행 -->
