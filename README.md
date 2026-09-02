@@ -91,10 +91,8 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <h2>Featured Projects</h2>
 <h3>AI 기반 제조 생산 일정 자동화 플랫폼</h3>
 <table>
-  <colgroup>
-    <col class="col-item">
-    <col class="col-content">
-  </colgroup>
+  <col style="width: 100px;">
+    <col style="width: calc(100% - 100px);">
 <thead>
 <tr>
 <th>항목</th>
@@ -128,10 +126,8 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 
 <h3>INVEST YATRA — 실시간 주식 데이터 정보 제공 서비스</h3>
 <table>
-  <colgroup>
-    <col class="col-item">
-    <col class="col-content">
-  </colgroup>
+  <col style="width: 100px;">
+    <col style="width: calc(100% - 100px);">
 <thead>
 <tr>
 <th>항목</th>
@@ -165,10 +161,8 @@ LangChain·RAG·GraphRAG 기반의 문서 검색과 GPT 챗봇을 구현하는 �
 <h3>AI 프로젝트 매니저 — 인간과 상호 작용하는 대화형 에이전트</h3>
 
 <table>
-  <colgroup>
-    <col class="col-item">
-    <col class="col-content">
-  </colgroup>
+  <col style="width: 100px;">
+    <col style="width: calc(100% - 100px);">
 <thead>
 <tr>
 <th>항목</th>
